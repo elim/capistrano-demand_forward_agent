@@ -31,7 +31,7 @@ Usage
 
 Put the following to your `deploy.rb`.
 
-    require 'capistrano-demand_forward_agent'
+    require 'capistrano/demand_forward_agent'
 
     demand_forward_agent.confirm
 
