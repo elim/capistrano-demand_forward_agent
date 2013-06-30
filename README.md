@@ -14,8 +14,7 @@ Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'capistrano-demand_forward_agent',
-      git: 'git@github.com:elim/capistrano-demand_forward_agent.git'
+    gem 'capistrano-demand_forward_agent'
 
 And then execute:
 
