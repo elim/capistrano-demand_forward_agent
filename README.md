@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/elim/capistrano-demand_forward_agent.png)](https://travis-ci.org/elim/capistrano-demand_forward_agent)
+
 Capistrano::DemandForwardAgent
 ==============================
 
